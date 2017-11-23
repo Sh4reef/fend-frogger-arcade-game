@@ -1,4 +1,4 @@
-Frogger aracde game
+FEND - Frogger arcade game
 ===============================
 ### Screenshot
 ![Frogger Arcade Game](https://github.com/Sh4reef/fend-frogger-arcade-game/raw/master/screenshot/Frogger%20arcade%20game.png)
